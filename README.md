@@ -14,3 +14,7 @@ This model's error is ***0.0011710058432966902***
 Knowing more about **RNN**:
 
 https://keras.io/layers/recurrent/
+
+### Paper about RNN LSTM stock market price predict :
+
+https://arxiv.org/pdf/1603.07893.pdf
