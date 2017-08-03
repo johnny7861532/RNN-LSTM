@@ -17,7 +17,7 @@ This model's error is ***0.0011710058432966902***
 
 Test data plot
 
-https://github.com/johnny7861532/RNN-LSTM/blob/master/RNN%20LSTM%202.png
+![image](https://github.com/johnny7861532/RNN-LSTM/blob/master/RNN%20LSTM%202.png)
 
 
 Knowing more about **RNN**:
